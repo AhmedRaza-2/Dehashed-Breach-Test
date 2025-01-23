@@ -1,0 +1,5 @@
+email,username,password,breach
+john.doe@example.com,johndoe,password123,LinkedIn
+jane.smith@example.com,janesmith,qwerty,Adobe
+test.user@example.com,testuser,123456,Facebook
+admin@example.com,admin,admin123,Yahoo
